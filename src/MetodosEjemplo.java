@@ -17,7 +17,7 @@ public class MetodosEjemplo {
         
        
         
-        System.out.println("Metodos");
+        System.out.println("Metodos123");
         int resultadoFinal = obtenerSuma(3, 4);
         
         System.out.println("Sums total: "+resultadoFinal);
