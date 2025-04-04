@@ -14,13 +14,12 @@ public class MetodosEjemplo {
     static Scanner leerDatos = new Scanner(System.in);
     
     public static void main(String[] args) {
-        
        
-        
         System.out.println("Metodos123");
         int resultadoFinal = obtenerSuma(3, 4);
         
         System.out.println("Sums total: "+resultadoFinal);
+    
     }
     
     public static void saludar(){
@@ -32,5 +31,7 @@ public class MetodosEjemplo {
  
         return valor1+valor2;
     }
+    
+    
 }
 
