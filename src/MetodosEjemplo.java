@@ -15,7 +15,9 @@ public class MetodosEjemplo {
     
     public static void main(String[] args) {
         
-       
+        if (true) {
+            
+        }
         
         System.out.println("Metodos123");
         int resultadoFinal = obtenerSuma(3, 4);
