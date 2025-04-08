@@ -31,6 +31,9 @@ public class funciones {
     public static double resta(double valor1, double valor2){
         return valor1-valor2;
     }
+    public static double suma(double valor1, double valor2){
+        return valor1+valor2;
+    }
     //Implementacion de metodo:
            public static void despedida(){
                System.out.println("Los resultados se mostraron correctamente, Adios! :D");   

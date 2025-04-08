@@ -22,17 +22,19 @@ public class funcionesYcondiciones {
             opcion = Datos2.nextInt();
             switch(opcion){
                 case 1:
-                    funciones.suma(numero1, numero2);
+                    System.out.println(funciones.suma(numero1, numero2)); 
+                    
                     break;
                 case 2:
-                    funciones.resta(numero1, numero2);
+                    System.out.println(funciones.resta(numero1, numero2));
                     break;   
                 case 3: 
-                    funciones.multiplicacion(numero1, numero2);
+                    System.out.println(funciones.multiplicacion(numero1, numero2));
                 break;
                 case 4:
-                    funciones.division(numero1, numero2);
+                  double  resultado = funciones.division(numero1, numero2);           
                 break;
+                
             }
         }
     }

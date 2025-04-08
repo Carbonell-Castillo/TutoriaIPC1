@@ -14,15 +14,12 @@ public class MetodosEjemplo {
     static Scanner leerDatos = new Scanner(System.in);
     
     public static void main(String[] args) {
-<<<<<<< HEAD
+
+
         
-        if (true) {
-            
-        }
-        
-=======
+
        
->>>>>>> 9be322341ba6b60ff7ca8f3cc64aed6c2e272d40
+
         System.out.println("Metodos123");
         int resultadoFinal = obtenerSuma(3, 4);
         
