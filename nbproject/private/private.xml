@@ -3,6 +3,7 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
+<<<<<<< HEAD
             <file>file:/home/bcastillo/Projects/TutoriaIPC1/src/test.java</file>
             <file>file:/home/bcastillo/Projects/TutoriaIPC1/src/Problema.java</file>
             <file>file:/home/bcastillo/Projects/TutoriaIPC1/src/EjemplosTutoria/funcionesYcondiciones.java</file>
@@ -16,6 +17,13 @@
             <file>file:/home/bcastillo/Projects/TutoriaIPC1/src/Array.java</file>
             <file>file:/home/bcastillo/Projects/TutoriaIPC1/src/Pruebas.java</file>
             <file>file:/home/bcastillo/Projects/TutoriaIPC1/src/Cubo.java</file>
+=======
+            <file>file:/C:/Users/aleja/OneDrive/Escritorio/Todo/Cosas/Universidad/IPC%201%20PS%202025/Git%20y%20Cosas%20Relacionadas/tutos/TutoriaIPC1/src/EjemploVariables.java</file>
+            <file>file:/C:/Users/aleja/OneDrive/Escritorio/Todo/Cosas/Universidad/IPC%201%20PS%202025/Git%20y%20Cosas%20Relacionadas/tutos/TutoriaIPC1/src/MetodosEjemplo.java</file>
+            <file>file:/C:/Users/aleja/OneDrive/Escritorio/Todo/Cosas/Universidad/IPC%201%20PS%202025/Git%20y%20Cosas%20Relacionadas/tutos/TutoriaIPC1/src/EjemplosTutoria/EjercicioInvitados.java</file>
+            <file>file:/C:/Users/aleja/OneDrive/Escritorio/Todo/Cosas/Universidad/IPC%201%20PS%202025/Git%20y%20Cosas%20Relacionadas/tutos/TutoriaIPC1/src/Operaciones.java</file>
+            <file>file:/C:/Users/aleja/OneDrive/Escritorio/Todo/Cosas/Universidad/IPC%201%20PS%202025/Git%20y%20Cosas%20Relacionadas/tutos/TutoriaIPC1/src/Ciclos.java</file>
+>>>>>>> d75bebbb5fa9780439de8898aea1193f6f12197c
         </group>
     </open-files>
 </project-private>
