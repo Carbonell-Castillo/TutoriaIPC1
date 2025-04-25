@@ -13,6 +13,7 @@ public class Persona {
     private String torso;
     private String cara;
     
+  
     //Primer constructor crea el boceto en blanco
     Persona(){
         this.pelo = "";
