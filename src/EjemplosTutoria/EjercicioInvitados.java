@@ -43,6 +43,7 @@ public class EjercicioInvitados {
                   System.out.println("Ingresa el invitado a Buscar");
                    String invitadoBuscar = leerDatos.nextLine();
                    boolean existe = false;
+                   //acá XD
                    for(int i=0; i<invitados.length;i++){
                    if(invitados[i].equals(invitadoBuscar)){
                   //     System.out.println("Bienvenido");
