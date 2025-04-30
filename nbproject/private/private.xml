@@ -3,6 +3,7 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
+<<<<<<< HEAD
             <file>file:/home/bcastillo/Projects/TutoriaIPC1/src/EjemplosTutoria/funcionesYcondiciones.java</file>
             <file>file:/home/bcastillo/Projects/TutoriaIPC1/src/funciones.java</file>
             <file>file:/home/bcastillo/Projects/TutoriaIPC1/src/Operaciones.java</file>
@@ -18,6 +19,11 @@
             <file>file:/home/bcastillo/Projects/TutoriaIPC1/src/EjemploHerenciaClases/EjemploTryCatch.java</file>
             <file>file:/home/bcastillo/Projects/TutoriaIPC1/src/EjemploHerenciaClases/Libro.java</file>
             <file>file:/home/bcastillo/Projects/TutoriaIPC1/src/EjemploHerenciaClases/MainLibro.java</file>
+=======
+            <file>file:/C:/Users/aleja/OneDrive/Escritorio/Todo/Cosas/Universidad/IPC%201%20PS%202025/Git%20y%20Cosas%20Relacionadas/tutos/TutoriaIPC1/src/EjemplosTutoria/AtributosPOO.java</file>
+            <file>file:/C:/Users/aleja/OneDrive/Escritorio/Todo/Cosas/Universidad/IPC%201%20PS%202025/Git%20y%20Cosas%20Relacionadas/tutos/TutoriaIPC1/src/EjemplosTutoria/Libros1.java</file>
+            <file>file:/C:/Users/aleja/OneDrive/Escritorio/Todo/Cosas/Universidad/IPC%201%20PS%202025/Git%20y%20Cosas%20Relacionadas/tutos/TutoriaIPC1/src/EjemplosTutoria/EjemploSopaLetras.java</file>
+>>>>>>> fd3760574755dc283583f69dddda10f4720bb41e
         </group>
     </open-files>
 </project-private>

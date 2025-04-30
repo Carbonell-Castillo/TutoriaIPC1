@@ -11,7 +11,7 @@ package EjemploHerenciaClases;
 public class Libro {
     private String titulo, autor;
     private int noPaginas;
-    
+    // CONSTRUCTOR
     public Libro(){
         this.titulo = "";
         this.autor ="";
