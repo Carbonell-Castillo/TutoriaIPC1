@@ -40,10 +40,15 @@ public class ScannerEjemplo {
         
         
         
+        funciones.suma(0, 0);
         
         
     }
     
+    
+    public static int suma(int numero1,int numero2, int numero3){
+        return numero1+numero2+numero3;
+    }
     
     
     

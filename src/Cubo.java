@@ -7,17 +7,17 @@
  *
  * @author bcastillo
  */
-public class Array {
-    public static void main(String[] args) {
-        int edad;
-        
-        edad = 10;
-        
-        edad = 12;
-        
-        
-                
-            funciones.suma(12, 10);
+public class Cubo {
+    private  String[] listaColores;
+    private int noLados;
+    private int tamanio;
+
+    public Cubo() {
+        this.listaColores = new String[3];
+        this.noLados = 0;
+        this.tamanio = 0;
     }
-   
+    
+    
+    
 }

@@ -7,17 +7,13 @@
  *
  * @author bcastillo
  */
-public class Array {
+import java.util.Random;
+public class Pruebas {
     public static void main(String[] args) {
-        int edad;
+        Random rnd = new Random();
         
-        edad = 10;
+        System.out.println(rnd.nextBoolean());
         
-        edad = 12;
-        
-        
-                
-            funciones.suma(12, 10);
     }
-   
+    
 }
