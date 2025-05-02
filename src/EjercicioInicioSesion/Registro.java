@@ -18,7 +18,7 @@ public class Registro {
     public static Scanner Datos = new Scanner(System.in);
     
     public static void main(String[] args) {
-        ArrayList<Usuario> listaUsuario = new ArrayList<>();
+
         
         System.out.println("Bienvenido, Registrando Datos...");
         
@@ -54,7 +54,15 @@ public class Registro {
            usuario.setContrasena(contra);
            usuario.setCorreo(correo);
             //LO ALMACENAMOS A NUESTRA LISTA.
-            listaUsuario.add(usuario);
+            
+            
+            
+            
+           SG.listaUsuarios.agregarUsuario(usuario);
+           
+           
+         
+           
             
             System.out.println("Ingresa -1 para salir");
             String validacion = Datos.nextLine();
@@ -68,20 +76,8 @@ public class Registro {
         System.out.println("Ingresar contra:");
         String contraEntrante = Datos.nextLine();
         boolean valida = false;
-        for(int i = 0; i < listaUsuario.size(); i++) {
-            String correo1 = listaUsuario.get(i).getCorreo();
-            String contra1 = listaUsuario.get(i).getContrasena();
-            System.out.println(correo1);
-             System.out.println(contra1);
-             if (correoEntrante.equals(correo1) && contraEntrante.equals(contra1)) {
-                 
-                 valida = true;
-            }
-        }
-        if (valida) {
-            System.out.println("Inicio Sesion Satisfactoriamente");
-        }else{
-            System.out.println("No existe esa madre");
-        }
+        
+        SG.listaUsuarios.IniciarSesion(correoEntrante, contraEntrante);
+      
     }
 }

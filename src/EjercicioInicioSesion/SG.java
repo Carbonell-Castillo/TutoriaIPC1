@@ -8,16 +8,9 @@ package EjercicioInicioSesion;
  *
  * @author bcastillo
  */
-public class Main {
-    public static void main(String[] args) {
-        
-        Usuario usuario1 = new Usuario();
-        
-        usuario1.setNombre("Juanito");
-        
-        System.out.println(usuario1.getNombre());
-        
-        
-        
-    }
+public class SG {
+    //Todas las variables que son globales
+    
+    public static Usuarios listaUsuarios = new Usuarios();
+    
 }
