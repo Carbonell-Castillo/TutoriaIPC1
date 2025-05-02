@@ -27,7 +27,7 @@ public class mainListaLibros {
             System.out.println("---Ingrese los datos del libro---");
             LibroPOO libro = new LibroPOO();
             
-            System.out.println("Ingres el titulo");
+            System.out.println("Ingrese el titulo");
             String tituloLibro = leerDatos.nextLine();
             
             System.out.println("Ingrese el autor");
@@ -43,7 +43,7 @@ public class mainListaLibros {
             libro.setAnioPublicacion(anio);
             libro.setDisponible("Si");
             
-            //Almacenmaos en la lista
+            //Almacenamos en la lista
             
             listaLibros.add(libro);
             

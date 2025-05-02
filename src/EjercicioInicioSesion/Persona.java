@@ -60,5 +60,8 @@ public class Persona {
         this.edad = edad;
     }
     
-
+public void mostrarDatos() {
+    System.out.println("Los Datos Son:");
+    System.out.println("Nombre: "+nombre+" Fecha Nacimiento: "+fechaNacimiento+" Edad: "+edad+" Genero: "+genero+" Nacionalidad: "+nacionalidad);
+}
 }
