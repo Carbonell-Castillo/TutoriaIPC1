@@ -44,4 +44,12 @@ public class Usuarios {
         }
         
     }
+    
+    public void mostrarUsuarios(){
+        for (int i = 0; i < listaUsuarios.size(); i++) {
+            Usuario usuarioMostrar = listaUsuarios.get(i);
+            System.out.println("Usuario: "+usuarioMostrar.getCorreo());
+            System.out.println("contraseña: "+usuarioMostrar.getContrasena());
+        }
+    }
 }

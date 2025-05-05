@@ -56,7 +56,6 @@ public class EjemploArraylist {
         }
         
         
-        listadoLibros.remove(1)
                 
         System.out.println(listadoLibros);
         
