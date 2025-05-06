@@ -11,6 +11,6 @@ package Ejercicios;
 public class SGProducto {
     //ACA HAREMOS PUBLICA EL OBJETO QUE LE DEMOS A LA LISTA, BLABLA BLA.
         public static Productos listaProductos = new Productos();
-        //LE PONE DE TIPO PRODUCTOS, NO VISUALIZO AUN (ES MI CONSTRUCTOR OJO)
+        public static LibrosPOO listaLibros = new LibrosPOO();
    
 }

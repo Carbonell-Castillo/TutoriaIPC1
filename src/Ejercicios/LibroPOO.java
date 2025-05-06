@@ -4,6 +4,8 @@
  */
 package Ejercicios;
 
+import java.util.ArrayList;
+
 /**
  *
  * @author aleja
@@ -13,12 +15,14 @@ String titulo, autor;
     int anioPublicacion =0;
     String disponible;
     //LO VOY HACER CON LA FORMA DE LOS GETS Y SETS. SE PUEDE HACER MANDANDO COMO PARAMETROS EN EL CONSTRUCTOR??
+   
     public LibroPOO(){
      this.titulo = "";
      this.autor= "";
      this.disponible= "";
      this.anioPublicacion = 0;
     }
+   
     //Metodos gets.
     public String getTitulo(){
         return titulo;
@@ -59,7 +63,10 @@ String titulo, autor;
         System.out.println("Los datos son los siguientes:");
         return "Titulo: "+titulo+" "+" Autor: "+autor+" "+" Año: "+anioPublicacion+" Disponible: "+disponible;
     }
-    
+    /*public void AgregarLibros(LibroPOO libro){
+        listaLibros.add(libro);
+    }
+    */
     public void mostrarDatos(){
         System.out.println("Los datos son los siguientes:");
         System.out.println("Titulo: "+titulo+" "+" Autor: "+autor+" "+" Año: "+anioPublicacion+" Disponible: "+disponible);
